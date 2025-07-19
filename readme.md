@@ -123,4 +123,4 @@ gemini:
 
 ## ✨ Autor
 
-Desenvolvido por [Igor Bavand](https://github.com/seuusuario)
+Desenvolvido por [Igor Bavand](https://github.com/igorbavand)
