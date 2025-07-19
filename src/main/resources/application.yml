@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: subititlegenerator
+
+gemini:
+  api:
+    key: ${GEMINI_API_KEY}
+    url: https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent
